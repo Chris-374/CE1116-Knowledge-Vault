@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/03_Aspectos de scrum/User Story.md",
+                "file": "CE1116/03_Aspectos de scrum/Sprint Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User Story"
+              "title": "Sprint Planning"
             }
           },
           {
@@ -225,14 +225,20 @@
   },
   "active": "9fea8fb6a24cd821",
   "lastOpenFiles": [
-    "CE1116/03_Aspectos de scrum/Taskboard.md",
+    "CE1116/03_Aspectos de scrum/Sprint Backlog.md",
+    "CE1116/03_Aspectos de scrum/Pruebas Funcionales.md",
+    "CE1116/03_Aspectos de scrum/Product Backlog.md",
+    "CE1116/03_Aspectos de scrum/Velocity.md",
     "CE1116/03_Aspectos de scrum/User Story.md",
+    "CE1116/03_Aspectos de scrum/Taskboard.md",
+    "CE1116/03_Aspectos de scrum/Story Points.md",
+    "CE1116/03_Aspectos de scrum/Sprint Planning.md",
+    "CE1116/03_Aspectos de scrum/Sprint Review.md",
+    "CE1116/03_Aspectos de scrum/Sprint Retrospective.md",
+    "CE1116/03_Aspectos de scrum/Definition of Done (DoD).md",
+    "CE1116/03_Aspectos de scrum/Increment.md",
     "CE1116/03_Aspectos de scrum/Planning Poker.md",
     "Pasted image 20260224213648.png",
-    "CE1116/03_Aspectos de scrum/Story Points.md",
-    "CE1116/03_Aspectos de scrum/Velocity.md",
-    "CE1116/03_Aspectos de scrum/Sprint Backlog.md",
-    "CE1116/03_Aspectos de scrum/Product Backlog.md",
     "CE1116/00_Actores/Stakeholder.md",
     "CE1116/00_Actores/Product Owner.md",
     "CE1116/01_Requerimientos/Requerimientos de negocio.md",
@@ -246,12 +252,7 @@
     "CE1116/04_Implementación/Estándares de Programación.md",
     "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
     "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "CE1116/08_Templates/Atomic Template.md",
     "Untitled.canvas",
-    "CE1116/00_Inbox/test1.md",
-    "CE1116/00_Inbox/test.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "CE1116/08_Templates",
     "CE1116/00_Actores",
     "CE1116/07_Mantenimiento",
@@ -261,7 +262,6 @@
     "CE1116/05_Pruebas",
     "CE1116/04_Implementación",
     "CE1116/03_Aspectos de scrum",
-    "Welcome.md",
     "CE1116/02_Metodologías de trabajo"
   ]
 }
