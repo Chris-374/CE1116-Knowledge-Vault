@@ -53,14 +53,10 @@
             "id": "9fea8fb6a24cd821",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/03_Aspectos de scrum/Sprint Planning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sprint Planning"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -225,6 +221,19 @@
   },
   "active": "9fea8fb6a24cd821",
   "lastOpenFiles": [
+    "CE1116/04_Aspectos de IA/Embeddings.md",
+    "CE1116/04_Aspectos de IA/Arquitectura Transformer.md",
+    "CE1116/04_Aspectos de IA/Alucinaciones.md",
+    "CE1116/04_Aspectos de IA/Ventana de Contexto.md",
+    "CE1116/04_Aspectos de IA/Mecanismo de Atención.md",
+    "CE1116/04_Aspectos de IA/Función de Activación.md",
+    "CE1116/04_Aspectos de IA/Redes Neuronales.md",
+    "CE1116/04_Aspectos de IA/Tokenización.md",
+    "CE1116/02_Metodologías de trabajo/Scrum.md",
+    "CE1116/04_Aspectos de IA/Untitled.md",
+    "CE1116/03_Aspectos de scrum/Definition of Done (DoD).md",
+    "CE1116/03_Aspectos de scrum/Sprint Planning.md",
+    "CE1116/04_Aspectos de IA",
     "CE1116/03_Aspectos de scrum/Sprint Backlog.md",
     "CE1116/03_Aspectos de scrum/Pruebas Funcionales.md",
     "CE1116/03_Aspectos de scrum/Product Backlog.md",
@@ -232,26 +241,14 @@
     "CE1116/03_Aspectos de scrum/User Story.md",
     "CE1116/03_Aspectos de scrum/Taskboard.md",
     "CE1116/03_Aspectos de scrum/Story Points.md",
-    "CE1116/03_Aspectos de scrum/Sprint Planning.md",
     "CE1116/03_Aspectos de scrum/Sprint Review.md",
     "CE1116/03_Aspectos de scrum/Sprint Retrospective.md",
-    "CE1116/03_Aspectos de scrum/Definition of Done (DoD).md",
     "CE1116/03_Aspectos de scrum/Increment.md",
     "CE1116/03_Aspectos de scrum/Planning Poker.md",
     "Pasted image 20260224213648.png",
     "CE1116/00_Actores/Stakeholder.md",
     "CE1116/00_Actores/Product Owner.md",
     "CE1116/01_Requerimientos/Requerimientos de negocio.md",
-    "CE1116/01_Requerimientos/Requerimientos de sistema.md",
-    "CE1116/01_Requerimientos/Requerimientos funcionales.md",
-    "CE1116/01_Requerimientos/Requerimientos no funcionales.md",
-    "CE1116/02_Metodologías de trabajo/Filosofía ágil.md",
-    "CE1116/02_Metodologías de trabajo/Scrum.md",
-    "README.md",
-    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
-    "CE1116/04_Implementación/Estándares de Programación.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Actores",
@@ -261,7 +258,6 @@
     "CE1116/06_Despliegue e Infrastructura",
     "CE1116/05_Pruebas",
     "CE1116/04_Implementación",
-    "CE1116/03_Aspectos de scrum",
-    "CE1116/02_Metodologías de trabajo"
+    "CE1116/03_Aspectos de scrum"
   ]
 }
